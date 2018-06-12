@@ -1,0 +1,19 @@
+{
+  "name": "major-system",
+  "version": "1.0.0",
+  "description": "Get word to number or number to word mapping based on Major System.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "majoy-system",
+    "memory",
+    "techniques"
+  ],
+  "author": "Harish Singh",
+  "license": "MIT",
+  "dependencies": {
+    "request-promise": "^4.2.2"
+  }
+}
