@@ -31,7 +31,7 @@ function get(input, callback){
     }
 }
 
-// get("umangkoulisthenkingoftheworld",function(err,data){
+// get("hello world",function(err,data){
 //     if(err){
 //         console.log(err)
 //     }else{
