@@ -17,10 +17,11 @@ Digit |  Letter
 8	    |  v, f, ph
 9	    |  p, b
 
-###Rules
-* Consonants get substituted by the table.
-* Vowels and the letters w, h, y and x are ignored.
-* Double letters are disregarded. So ss equals 0.
+### Rules
+
+1. Consonants get substituted by the table.
+2. Vowels and the letters w, h, y and x are ignored.
+3. Double letters are disregarded. So ss equals 0.
 
 - **S**atellite	S = 0	0
 - *S***a**tellite	Vowel, ignored.	0
