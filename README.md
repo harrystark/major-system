@@ -7,5 +7,17 @@ This mnemonic system is based on the substitution of sounds with digits. With th
 Digit |  Letter
 ----- | ------- 
 0     |  s, z
+1	    |  t, d, th
+2     |	 n
+3	    |  m
+4	    |  r
+5	    |  l
+6	    |  j, ch, sh
+7	    |  c, k, g, q, ck
+8	    |  v, f, ph
+9	    |  p, b
+
+
+
 
 
