@@ -18,10 +18,10 @@ Digit |  Letter
 9	    |  p, b
 
 
-- Satellite	S = 0	0
-- Satellite	Vowel, ignored.	0
-- Satellite	t = 1	01
-- Satellite	Vowel, ignored.	01
+- **S**atellite	S = 0	0
+- **Sa**tellite	Vowel, ignored.	0
+- **Sat**ellite	t = 1	01
+- **Sate**llite	Vowel, ignored.	01
 - Satellite	ll = 5, no double letter	015
 - Satellite	Vowel, ignored.	015
 - Satellite	t = 1	0151
