@@ -19,13 +19,13 @@ Digit |  Letter
 
 
 - **S**atellite	S = 0	0
-- **Sa**tellite	Vowel, ignored.	0
-- **Sat**ellite	t = 1	01
-- **Sate**llite	Vowel, ignored.	01
-- Satellite	ll = 5, no double letter	015
-- Satellite	Vowel, ignored.	015
-- Satellite	t = 1	0151
-- Satellite	Vowel, ignored.	0151
+- S**a**tellite	Vowel, ignored.	0
+- Sa**t**ellite	t = 1	01
+- Sat**e**llite	Vowel, ignored.	01
+- Sate**ll**ite	ll = 5, no double letter	015
+- Satell**i**te	Vowel, ignored.	015
+- Satelli**t**e	t = 1	0151
+- Satellit**e**	Vowel, ignored.	0151
 
 
 
