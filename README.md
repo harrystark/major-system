@@ -34,4 +34,10 @@ Digit |  Letter
 
 The complete Major Code for Satellite is 0151.
 
+#How To Install?
+Type the following command in terminal.
+  npm i mnemonic-major-system
+
+#Usage
+This package has only 1 method 
 
